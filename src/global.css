@@ -1,0 +1,8 @@
+.box {
+  margin: 10px;
+  outline: 1px solid red;
+}
+.code {
+  white-space: pre; 
+  outline: 1px solid #aaa;
+}
