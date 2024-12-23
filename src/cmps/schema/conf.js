@@ -112,12 +112,6 @@ export const ArrayCardsJson = {
             "x-component": "Input",
           },
           ArrayTableJson,
-          //   xxxa: {
-          //     type: "void",
-          //     properties: {
-          //       ArrayTableJson,
-          //     },
-          //   },
           remove: {
             type: "void",
             "x-component": "ArrayCards.Remove",
